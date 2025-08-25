@@ -13,4 +13,4 @@ Restricciones del Sistema
  🚀 Ejecución del Programa
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/proyecto-reservas-salones.git
+   git clone https://github.com/usuario/Ejercicio_2.git
